@@ -109,7 +109,7 @@ button{
 }
 .content{
     height: 700px;
-    width: 396px;
+    width: 300px;
     padding: 120px;
     gap: 40ox;
 }
@@ -118,5 +118,16 @@ button{
 }
 .content li{
     list-style: none;
+}
+.suport{
+    background-color: aliceblue;
+    margin: 120px 120px;
+    border: 1px solid darkgray;
+    width: 1360px;
+    height: 386px;
+    text-align: center;
+    align-items: center;
+    padding: 40px;
+    gap: 24px;
 }
 
