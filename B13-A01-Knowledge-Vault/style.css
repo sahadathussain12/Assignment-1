@@ -102,3 +102,21 @@ button{
     border: 1px solid rgb(242, 234, 234);
     max-width: 322px;
 }
+.plex-container{
+ display: flex;
+ margin: 120PX 120PX;
+
+}
+.content{
+    height: 700px;
+    width: 396px;
+    padding: 120px;
+    gap: 40ox;
+}
+.content h2{
+    font-size: 2em;
+}
+.content li{
+    list-style: none;
+}
+
